@@ -7,7 +7,6 @@ import ExerciseDetail from '../src/pages/ExerciseDetail';
 import About from '../src/pages/About';
 import Home from './pages/Home'
 import Navbar from './components/Navbar'
-import MuiNavbar from '../src/components/MuiNavbar';
 import Footer from './components/Footer'
 
 import './App.css'

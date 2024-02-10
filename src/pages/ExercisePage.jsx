@@ -44,7 +44,7 @@ useEffect(() => {
         ExcersiseMD
       </Typography>
       <Typography fontWeight={100}fontSize={22} lineHeight='35px' mb={3}>
-       Check out our most effective excercises
+       Check out our list of  effective excercises
       </Typography>
       
       <Stack direction="row" sx={{gap:{lg:'110px',xs:'50px'}}} flexWrap="wrap"
